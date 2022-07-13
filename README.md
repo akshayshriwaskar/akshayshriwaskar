@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @akshayshriwaskar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I am Akshay Arun Shriwaskar.
+- I’m interested in software develpment field.
+- I’m currently learning web development, networking, cloud computing, etc.
+- I’m looking to collaborate on web development.
+- How to reach me ?
+    -You can mail me on admin@aklinkworld.com or akshayshriwaskar@rediffmail.com.
 
-<!---
-akshayshriwaskar/akshayshriwaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
