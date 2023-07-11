@@ -40,9 +40,15 @@ HTML, CSS, JS
 <div align="center">  
 PHP, SQL
 </td><td valign="top" width="33%">
+</td></tr></table>  
+### Other  
+<div align="center">  
+Python, Java , C , C++ 
+</td><td valign="top" width="33%">
 
 
 </td></tr></table>  
+
 
 <br/>  
 
