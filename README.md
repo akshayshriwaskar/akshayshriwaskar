@@ -48,8 +48,8 @@ PHP, SQL
 </a>
 
 <a href="https://www.hackerrank.com/Akshayshriwaskar/" target="_blank">
-<img src="https://img.shields.io/badge/dynamic/json?url=hackerrank&logo=hackerrank&label=hackerrank&link=https%3A%2F%2Fwww.hackerrank.com%2FAkshayshriwaskar">
-</a>
+<img src="https://img.shields.io/badge/dynamic/json?</a>
+
 
 
 <a href="https://instagram.com/akshayshriwaskar" target="_blank">
