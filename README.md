@@ -40,9 +40,10 @@ PHP, SQL
 ### Other 
 <div align="center">
 JAVA, PYTHON 
+  </td><td valign="top" width="33%">
+</td></tr></table> 
 </div>
 
-</td><td valign="top" width="33%">
   
 ## Connect with me  
 <div align="center">
