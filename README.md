@@ -48,7 +48,8 @@ PHP, SQL
 </a>
 
 <a href="https://www.hackerrank.com/Akshayshriwaskar)/" target="_blank">
-<img src="https://img.shields.io/badge/hackerrank/badge/&logo=hackerrank&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=hackerrank&logo=hackerrank">
+
 </a>
 
 
