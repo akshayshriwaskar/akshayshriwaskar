@@ -59,7 +59,7 @@ HTML, CSS, JS
 </a>  
 </div> 
 <b>If you have any queries, How to reach me?
-You can drop email me on Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com.<b>
+You can drop email me on Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com<b>
  <br>
  I'll try to revert you back ASAP if possible.
 <br/>  
