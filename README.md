@@ -36,14 +36,13 @@ HTML, CSS, JS
 PHP, SQL
 </td><td valign="top" width="33%">
 </td></tr></table>  
-</div>
+
 ### Other 
 <div align="center">
 HTML, CSS, JS    
 </td><td valign="top" width="33%">
 </td></tr></table>  
 </div>
-<br/>  
 
 ## Connect with me  
 <div align="center">
