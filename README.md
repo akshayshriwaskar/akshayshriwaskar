@@ -42,7 +42,7 @@ PHP, SQL
 JAVA, PYTHON 
   </td><td valign="top" width="33%">
 </td></tr></table> 
-</div>
+
 
   
 ## Connect with me  
