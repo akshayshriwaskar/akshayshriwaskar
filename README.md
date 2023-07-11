@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Akshay Shriwaskar, I'm an IT Engineer. 👨‍💻  👨‍💻  🚀</div>  
+### <div align="center">I'm Akshay Shriwaskar, I'm an IT Engineer. 👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently working in Information Technology domain.
