@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack freelance developer 👨‍💻  👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on Information Technology domain.
+- 🔭 I’m currently working in Information Technology domain.
 (https://github.com/akshayshriwaskar)
   
 
