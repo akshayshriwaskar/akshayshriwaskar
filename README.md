@@ -39,11 +39,11 @@ PHP, SQL
 
 ### Other 
 <div align="center">
-HTML, CSS, JS    
-</td><td valign="top" width="33%">
-</td></tr></table>  
+PHP, SQL  
 </div>
 
+</td><td valign="top" width="33%">
+  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/akshayshriwaskar" target="_blank">
