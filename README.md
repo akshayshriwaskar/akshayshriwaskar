@@ -39,7 +39,7 @@ PHP, SQL
 
 ### Other 
 <div align="center">
-PHP, SQL  
+JAVA, PYTHON 
 </div>
 
 </td><td valign="top" width="33%">
