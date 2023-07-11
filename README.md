@@ -38,11 +38,7 @@ PHP, SQL
 </td></tr></table>  
 
 ### Other 
-<div align="center">
-JAVA, PYTHON 
-  </td><td valign="top" width="33%">
-</td></tr></table> 
-</div>
+<b>JAVA, PYTHON</b>
 <br>
   
 ## Connect with me  
