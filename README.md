@@ -29,8 +29,7 @@
 
 ### Frontend 
 <div align="center">
-HTML, CSS, JS  
-height="50" </a>  
+HTML, CSS, JS    
 </div>
 
 </td><td valign="top" width="33%">
