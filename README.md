@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack freelance developer 👨‍💻  👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working in Information Technology domain.
+- 🔭 I’m currently working on Information Technology domain.
 (https://github.com/akshayshriwaskar)
   
 
@@ -30,7 +30,7 @@
 ### Frontend 
 <div align="center">
 HTML, CSS, JS  
-height="50" /></a>  
+height="50" </a>  
 </div>
 
 </td><td valign="top" width="33%">
