@@ -1,6 +1,8 @@
 Hi, I am Akshay Arun Shriwaskar.
 I'm an IT Engineer.
-I’m currently working with IT DOMAIN. WEB DEVELOPMENT, NETWORKING, CLOUD NETWORKING, AND SO ON.
-- I'd like to collaborate with you on WEB DEVELOPMENT (FRONTEND & BACKEND), NETWORKING, CLOUD NETWORKING, and SDE.
-How to reach me?
-You can email me at Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com.
+I’m currently working in the IT DOMAIN. 
+
+<b>If you have any queries, How to reach me?
+You can drop email me on Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com.<b>
+ --- 
+ I'll try to revert you back ASAP if possible.
