@@ -48,7 +48,7 @@ PHP, SQL
 </a>
 
 <a href="https://www.hackerrank.com/Akshayshriwaskar)/" target="_blank">
-<img src="https://img.shields.io/badge/hackerrank">(https://img.shields.io/badge/&logo=hackerrank&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+[<img src="https://img.shields.io/badge/hackerrank/badge/&logo=hackerrank&logoColor=white alt=linkedin style="margin-bottom: 5px;" />](https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg)
 </a>
 
 
