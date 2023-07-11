@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack freelance developer 👨‍💻  👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack developer 👨‍💻  👨‍💻  🚀</div>  
   
 
 - 🔭 I’m currently working on Information Technology domain.
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Python | SDE | Java | Dot Net Framework  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Information Technologies & Web Technologies
   
 
 - ⚡ Fun fact: I use tabs, lape over spaces  
@@ -23,7 +23,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><tr></tr><td valign="top" width="33%">
 
 
 
