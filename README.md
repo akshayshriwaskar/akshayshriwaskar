@@ -3,12 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack developer 👨‍💻  👨‍💻  🚀</div>  
+### <div align="center">I'm Akshay Shriwaskar, I'm an IT Engineer. 👨‍💻  👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on Information Technology domain.
-(https://github.com/akshayshriwaskar)
-  
+- 🔭 I’m currently working in Information Technology domain.
+(https://github.com/akshayshriwaskar)  
 
 - 🌱 I’m currently learning Python | SDE | Java | Dot Net Framework  
   
@@ -23,9 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><tr></tr><td valign="top" width="33%">
-
-
+<table><tr><tr><td valign="top" width="33%">
 
 ### Frontend 
 <div align="center">
@@ -33,8 +30,6 @@ HTML, CSS, JS
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -45,6 +40,8 @@ PHP, SQL
 ### Other 
 <div align="center" dir="auto">
 HTML, CSS, JS    
+</td><td valign="top" width="33%">
+</td></tr></table>  
 </div>
 <br/>  
 
@@ -62,4 +59,8 @@ HTML, CSS, JS
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
+<b>If you have any queries, How to reach me?
+You can drop email me on Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com.<b>
+ --- 
+ I'll try to revert you back ASAP if possible.
 <br/>  
