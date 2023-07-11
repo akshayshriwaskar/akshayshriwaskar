@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://aklinkworld.com" align="center" style="width: 100%" />
-</div>  
   
-
 ### <div align="center">I'm Akshay Shriwaskar, I'm an IT Engineer. 👨‍💻  🚀</div>  
   
 
