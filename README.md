@@ -1,12 +1,13 @@
 <div align="center">
 <img src="https://aklinkworld.com" align="center" style="width: 100%" />
 </div>  
+  
 
 ### <div align="center">I'm Akshay Shriwaskar, a part-time full-stack freelance developer 👨‍💻  👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]
-(https://github.com/akshayshriwaskar/Akki)  
+- 🔭 I’m currently working on Information Technology domain.
+(https://github.com/akshayshriwaskar)
   
 
 - 🌱 I’m currently learning Python | SDE | Java | Dot Net Framework  
