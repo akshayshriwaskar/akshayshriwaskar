@@ -65,35 +65,5 @@ Python, Java , C , C++
 <a href="https://instagram.com/akshayshriwaskar" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
+</div> 
 <br/>  
-
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center">
-            <a href="https://github.com/akshayshriwaskar/Akki" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://github.com/akshayshriwaskar/Akki/" target="_blank">Github Profilinator</a></div>
-
