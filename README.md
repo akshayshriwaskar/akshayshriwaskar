@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working in Information Technology domain.
-([https://akshayshriwaskar.github.io/Akki])  
+(https://akshayshriwaskar.github.io/Akki)  
 
 - 🌱 I’m currently learning Python | SDE | Java | Dot Net Framework  
   
