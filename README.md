@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to Information Technologies & Web Technologies
   
 
-- ⚡ Fun fact: I use tabs, lape over spaces  
+- ⚡ Dev fact: Eat(); Sleep(); Code(); Repeat();  
   
 
 <br/>  
