@@ -52,7 +52,7 @@ PHP, SQL
 </a>
 
 <a href="https://youtube.com/@akshayshriwaskar" target="_blank">
-<img https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
 <a href="https://instagram.com/akshayshriwaskar" target="_blank">
