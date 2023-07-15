@@ -50,8 +50,9 @@ PHP, SQL
 <a href="https://www.hackerrank.com/Akshayshriwaskar/" target="_blank">
 <img https://img.shields.io/badge/https%3A%2F%2Fwww.hackerrank.com%2FAkshayshriwaskar%3Fhr_r%3D1&logoColor=Blue alt=hackerrank style="margin-bottom: 5px;" />
 </a>
-
-
+<a href="https://youtube.com/@akshayshriwaskar" target="_blank">
+<img https://www.youtube.com/&logoColor=Blue alt=youtube style="margin-bottom: 5px;" />
+</a>
 
 
 
