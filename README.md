@@ -34,8 +34,9 @@ PHP, SQL
 
 
 ### Other 
+<div align="center">
 <b>JAVA, PYTHON</b>
-
+</td><td valign="top" width="33%">
   </td></tr></table>  
 <br>
 ### Connect with me  
