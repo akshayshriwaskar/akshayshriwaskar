@@ -31,12 +31,12 @@ HTML, CSS, JS
 <div align="center">  
 PHP, SQL
 </td><td valign="top" width="33%">
-</td></tr></table>  
+
 
 ### Other 
 <b>JAVA, PYTHON</b>
 <br>
-  
+  </td></tr></table>  
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/akshayshriwaskar" target="_blank">
