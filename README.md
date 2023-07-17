@@ -62,7 +62,7 @@ PHP, SQL
 </a>  
 </div> 
 <br>
-<b>If you have any queries, How to reach me?
+<b>If you have any queries, How to reach me?<br>
 You can drop email me on Aklinkworld97@gmail.com or akshayshriwaskar@rediffmail.com<b>
  <br>
  I'll try to revert you back ASAP if possible.
