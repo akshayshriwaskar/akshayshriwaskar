@@ -35,8 +35,9 @@ PHP, SQL
 
 ### Other 
 <b>JAVA, PYTHON</b>
-<br>
+
   </td></tr></table>  
+<br>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/akshayshriwaskar" target="_blank">
