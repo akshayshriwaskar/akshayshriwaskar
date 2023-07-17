@@ -34,7 +34,7 @@ PHP, SQL
 
 
 ### Other 
-<div align="center">  
+
 <b>JAVA, PYTHON</b>
 <br>
   </td></tr></table>  
