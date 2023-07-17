@@ -27,18 +27,29 @@ HTML, CSS, JS
 
 </td><td valign="top" width="33%">
 
+
+<div align="center">  
+PHP, SQL
+</td><td valign="top" width="33%">
+</td></tr></table>  
+
+
+### Other 
+<div align="center"> 
+<b>JAVA, PYTHON</b>
+  </td><td valign="top" width="33%">
+    </td></tr></table>  
+<br>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/akshayshriwaskar" target="_blank">
+
 ### Backend  
 <div align="center">  
 PHP, SQL
 </td><td valign="top" width="33%">
 
-
-### Other 
-<div align="center">
-<b>JAVA, PYTHON</b>
-</td><td valign="top" width="33%">
- </table>  
-<br>
 ### Connect with me  
 <div align="center">
 <a href="https://github.com/akshayshriwaskar" target="_blank">
