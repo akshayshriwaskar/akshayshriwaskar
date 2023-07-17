@@ -37,7 +37,7 @@ PHP, SQL
 <div align="center">
 <b>JAVA, PYTHON</b>
 </td><td valign="top" width="33%">
-  </td></tr></table>  
+ </table>  
 <br>
 ### Connect with me  
 <div align="center">
