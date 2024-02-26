@@ -1,17 +1,17 @@
   
-### <div align="center">I'm Akshay Shriwaskar, I'm an IT Engineer. 👨‍💻  🚀</div>  
+### <div align="center">I'm Akshay Shriwaskar, an IT Engineer passionate about Java Full Stack Development.. 👨‍💻 #ITEngineer #JavaDeveloper #TechEnthusist 🚀</div>  
   
 
 - 🔭 I’m currently working in Information Technology domain.
 (https://akshayshriwaskar.github.io/Akki)  
 
-- 🌱 I’m currently learning Python | SDE | Java | Dot Net Framework  
+- 🌱 Let's talk about Information Technologies & Web Technologies! Check out my work at the link below
   
 
 - ❓ Ask me about anything related to Information Technologies & Web Technologies
   
 
-- ⚡ Dev fact: Eat(); Sleep(); Code(); Repeat();  
+- ⚡Eat(); Sleep(); Code(); Repeat();  
   
 
 <br/>  
