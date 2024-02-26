@@ -1,5 +1,5 @@
   
-### <div align="center">I'm Akshay Shriwaskar, an IT Engineer <br> passionate about Java Full Stack Development.. 👨‍💻 <br> #ITEngineer #JavaDeveloper #TechEnthusist 🚀</div>  
+### <div align="center">I'm Akshay Shriwaskar, an IT Engineer <br> passionate about Java Full Stack Development.. 👨‍💻 <br> #ITEngineer #JavaDeveloper #Techenthusiast 🚀</div>  
   
 
 - 🔭 I’m currently working in Information Technology domain.
